@@ -1,0 +1,6 @@
+{
+  "name": "FX Security",
+  "description": "FX Security System: real-time threat shield, anti-spam defense, privacy guard, and risk scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
